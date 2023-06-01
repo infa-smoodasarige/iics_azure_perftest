@@ -1,8 +1,8 @@
 {
   "objectInfo" : {
-    "id" : "aZRyHAhaUEclRhJaRHp6Y6",
-    "name" : "sample_project",
-    "type" : "Project",
+    "id" : "0NxKBYBLl3mdWpNFH8tv2k",
+    "name" : "sample_folder",
+    "type" : "Folder",
     "metadata" : {
       "modelVersion" : {
         "major" : 0,
@@ -11,7 +11,7 @@
       "repoInfo" : null,
       "contextAttributes" : [ ],
       "additionalInfo" : {
-        "description" : "i am a Project",
+        "description" : "i am a folder",
         "contentType" : "Binary",
         "documentState" : "COMPLETE"
       }
