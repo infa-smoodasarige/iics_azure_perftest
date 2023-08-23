@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "cWp6v9CHF2NgTFKAGRLJ2J",
+    "id" : "7yPb98TCyUcivYucSvi4m9",
     "name" : "sample_project",
     "type" : "Project",
     "metadata" : {
@@ -18,6 +18,6 @@
     }
   },
   "dataFileExtension" : "json",
-  "updateTime" : "2023-08-23T09:18:15.117Z",
+  "updateTime" : "2023-08-23T09:47:39.594Z",
   "objectRefs" : [ ]
 }
